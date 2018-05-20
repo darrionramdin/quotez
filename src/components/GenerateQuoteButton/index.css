@@ -1,0 +1,20 @@
+.GenerateQuoteButton__button {
+    padding: 10px 20px;
+    margin: 40px 0;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #fff;
+    border-radius: 20px;
+    background: transparent;
+    border: 2px solid #fff;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+.GenerateQuoteButton__button:hover {
+    transform: scale(1.1);
+}
+
+.GenerateQuoteButton__button:focus {
+    outline: 0;
+}

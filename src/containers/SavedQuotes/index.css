@@ -1,0 +1,22 @@
+.SavedQuotes-container {
+    margin: 20px 300px;
+}
+
+.SavedQuotes__heading {
+    padding: 20px 0;
+    text-align: center;
+}
+
+.SavedQuotes-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.SavedQuotes-clear {
+    margin: 10px 0;
+    background: none;
+    border: none;
+    opacity: 0.6;
+    cursor: pointer;
+}

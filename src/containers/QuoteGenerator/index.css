@@ -1,0 +1,14 @@
+.QuoteGenerator-nav {  
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 20px;
+    color: white;
+    opacity: 0.6;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+}
+
+.QuoteGenerator-nav:hover {
+    opacity: 1;
+}
